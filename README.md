@@ -6,9 +6,9 @@ https://twitter.com/mmmonk <= just because
 https://keybase.io/mlukaszuk <= keybase.io  
 
 You can get my private [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#OpenPGP) key from a [local copy](0xA05B707BECEE7D6D.txt) or using command below:  
-$ [gpg](https://www.gnupg.org/) --keyserver hkps://[keys.openpgp.org[(https://keys.openpgp.org/) --recv-keys [0xA05B707BECEE7D6D](https://keys.openpgp.org/search?q=0xA05B707BECEE7D6D)
+$ [gpg](https://www.gnupg.org/) --keyserver hkps://[keys.openpgp.org](https://keys.openpgp.org/) --recv-keys [0xA05B707BECEE7D6D](https://keys.openpgp.org/search?q=0xA05B707BECEE7D6D)
 
-My work related key can be downloaded from [local copy](0xA05B707BECEE7D6D.txt)  
+My work related key can be downloaded from [local copy](0xEE80B6D796ADCC4C.txt)  
 or using KeyID [0xEE80B6D796ADCC4C](https://keys.openpgp.org/search?q=0xEE80B6D796ADCC4C)
 
 This page can be also found in those locations:  
