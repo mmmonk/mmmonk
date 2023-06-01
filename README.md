@@ -3,6 +3,7 @@ https://www.linkedin.com/in/lukaszukm <= linkedin aka work history
 http://blog.mmmonk.net/ <= blog  
 https://github.com/mmmonk <= some code  
 https://twitter.com/mmmonk <= just because  
+https://infosec.exchange/@mlukaszuk <= mastodon  
 https://keybase.io/mlukaszuk <= keybase.io  
 
 You can get my private [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#OpenPGP) key from a [local copy](0xA05B707BECEE7D6D.txt) or using command below:  
@@ -14,7 +15,6 @@ or using KeyID [0xEE80B6D796ADCC4C](https://keys.openpgp.org/search?q=0xEE80B6D7
 This page can be also found in those locations:  
 https://mmmonk.net/index.html  
 https://mmmonk.github.io/index.html  
-https://mlukaszuk.keybase.pub/index.html  
 
 <!--
 **mmmonk/mmmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
